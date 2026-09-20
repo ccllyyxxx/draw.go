@@ -6,4 +6,4 @@ Coloca en esta carpeta (`docs/`) los archivos de producto, requerimientos de neg
 1. Agrega el documento bruto en `docs/mi-documento.md`.
 2. Extrae y desglosa las funcionalidades en `specs/features/FEAT-XXX-nombre.md` usando la plantilla de [template.md](file:///Users/carlosmontero/Documents/Draw.go/specs/features/template.md).
 3. Cada Feature contendrá las Historias de Usuario (HU) con sus **Criterios de Aceptación** (Given-When-Then).
-4. El script/integración de Jira creará/actualizará automáticamente los tickets en Jira vinculando la llave (`DRA-XX`).
+
